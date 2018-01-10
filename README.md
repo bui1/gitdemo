@@ -8,4 +8,4 @@
 # git remote -v , show all branches and details
 # git branch
 # git branch -a
-# 
+# git checkout "branch name", to switch in between branches
