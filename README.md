@@ -6,6 +6,6 @@
 # gitk --all
 # git checkout "first four letters of the commit id"
 # git remote -v , show all branches and details
-# git branch
+# git branch "name", to create a new branch
 # git branch -a
-# 
+
