@@ -9,3 +9,7 @@
 # git branch "name", to create a new branch
 # git branch -a
 
+
+
+# git checkout "branch name", to switch in between branches
+
