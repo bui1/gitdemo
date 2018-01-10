@@ -4,3 +4,5 @@
 -git log
 -git log --graph
 -gitk --all
+-git checkout "first four letters of the commit id"
+
